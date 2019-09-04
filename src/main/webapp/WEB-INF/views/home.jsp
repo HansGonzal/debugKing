@@ -9,6 +9,6 @@
 	Hello world!  
 </h1>
 
-<P>  The time on thedfdsfadfasd server is ${serverTime}. </P>
+<P>  The time on  server is ${serverTime}. </P>
 </body>
 </html>
